@@ -1,0 +1,43 @@
+body {
+  min-height: 100vh;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.btn {
+  padding: 5px 5px;
+  border-radius: 10px;
+}
+
+.btn-primary {
+  background-color: blue;
+  color: white;
+}
+.btn-danger {
+  background-color: red;
+  color: white;
+}
+.mr-1 {
+  margin-right: 5px;
+}
+.mb-5 {
+  margin-bottom: 15px;
+}
